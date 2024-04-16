@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  background-image: linear-gradient(#dbd9e0, #6c056dd7);
+  font-family:'playfair display' ;
+}
